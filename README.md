@@ -1,1 +1,1 @@
-# fake-detector
+# detect-fake

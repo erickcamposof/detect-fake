@@ -25,4 +25,10 @@ Acesse: https://detect-fake.com
 
   ## Dados Importantes
 - Público-alvo: Em Edição.
+- Orientador: Luan
 - Integrantes do Projeto: Clarice, Erick e João.
+
+  ## Funções
+- Clarice
+- Erick: Responsável pela criação/manutenção dos códigos e serviços de API/Site Web.
+- João

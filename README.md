@@ -26,9 +26,16 @@ Acesse: https://detect-fake.com
   ## Dados Importantes
 - Público-alvo: Em Edição.
 - Orientador: Luan
-- Integrantes do Projeto: Clarice, Erick e João.
+- **Integrantes do Projeto:** Clarice, Erick e João.
 
   ## Funções
-- Clarice
-- Erick: Responsável pela criação/manutenção dos códigos e serviços de API/Site Web.
-- João
+- **Clarice**
+- **Erick: Responsável pela criação/manutenção dos códigos e serviços de API/Site Web.**
+- **João**
+
+  # Financeiro
+- **Para o mantimento financeiro, será usado parcerias públicas/governamentais e empresáriais, para uso da Ferramente de IA que verifica o conteúdo a ser postado/publicado.**
+- **Possíveis ideias:**
+- Usar anuncíos no Site para conseguir monetização e prover os custos operacionais;
+- Oferecer planos de assinatura;
+- Oferecer serviço de anuncios, no qual empresas pagam para poderem anunciar dentro dos nossos serviços.
